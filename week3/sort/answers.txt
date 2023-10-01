@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: It was very slow with random files but relativly fast with sorted files, because it has O(n^2) and Omaga(n)
+
+sort2 uses: Merge
+
+How do you know?: It was very fast with random files and also with sorted files, because it has Theta(nlog(n))
+
+sort3 uses: Selection
+
+How do you know?: It was very slow with random files and also with sorted files, because it has Theta(nlog(n))
